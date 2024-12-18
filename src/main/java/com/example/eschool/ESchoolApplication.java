@@ -8,6 +8,12 @@ public class ESchoolApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ESchoolApplication.class, args);
+
+
 	}
+
+
+
+
 
 }

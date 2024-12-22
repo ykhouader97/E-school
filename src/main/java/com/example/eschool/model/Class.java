@@ -8,9 +8,11 @@ public class Class {
     private int level;
     private String className;
 
+
     public Class(int level, String className) {
 
         this.level = level;
         this.className = className;
     }
+
 }
